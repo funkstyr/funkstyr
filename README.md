@@ -2,6 +2,7 @@
 - 👀 I’m interested in everything; React, C#, Kubernetes, the unviversee 🌌
 - 🌱 I’m currently learning typescript and monorepos 🏢
 - 💞️ I’m looking to collaborate on anything accounting, finance, or smart contract 🪙
+- 🎭 Also known as [@mafunk](https://github.com/mafunk)
 <!--- - 📫 How to reach me --->
 
 <!---
