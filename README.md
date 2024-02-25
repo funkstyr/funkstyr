@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Michael Funk
+- 🎭 Also known as [@mafunk](https://github.com/mafunk)
 - 👀 I’m interested in everything; React, C#, Kubernetes, the unviverse 🌌
 - 🌱 I’m currently learning typescript and monorepos 🏢
 - 💞️ I’m looking to collaborate on anything accounting, finance, or smart contract 🪙
-- 🎭 Also known as [@mafunk](https://github.com/mafunk)
-- 📫 How to reach me [@funkstyr](https://twitter.com/funkstyr)
 - 📝 I regularly write articles on [https://www.omnibytes.io/blog](https://www.omnibytes.io/blog)
 
 <hr />
