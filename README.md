@@ -37,7 +37,7 @@
 
 <hr />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=funkstyr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=funkstyr&mode=weekly)](https://git.io/streak-stats)
 
 <!---
 funkstyr/funkstyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
